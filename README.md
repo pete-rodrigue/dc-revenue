@@ -40,6 +40,7 @@ Who doesn't have to file the D-20 or pay this tax:
 
 * Sole proprietorships, or businesses that are just one person, in which the owner and the business are the same legal entity. These people just pay their taxes on the D-40, as individual income tax.
 * Entities that had gross reciepts < $12k
+* Non-profits
 * Unincorporated businesses (see next section)
 
 ### Unincorporated business franchise tax
@@ -55,6 +56,7 @@ Details:
 
 Who doesn't have to file the D-30 or pay this tax:
 
+* Non-profits
 * "A business is exempt if more than 80% of gross income is derived from personal services rendered by the members of the entity and capital is not a material income-producing factor. A trade, business or professional organization that by law, customs or ethics cannot be incorporated is exempt."<sup>[6]</sup> 
     * This means some large law and consulting firms don't pay this tax.
 
