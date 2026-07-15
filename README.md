@@ -15,6 +15,8 @@ Details:
 * Previously there was another form called the D-40EZ, which people with simpler taxes could file instead of the full D-40, but that was discontinued in 2019.<sup>[2]</sup>
 * If a person doesn't have automatic payroll witholding (e.g. because they're self-employed), they have to submit estimated payments using the D-40ES form. These are due quarterly.<sup>[3]</sup>
 
+[read more details](###More-details-on-the-individual-income-tax)
+
 Who doesn't have to file the D-40 or pay this tax:
 
 * Low-income earners whose gross income is below the current standard deduction, unless they want to claim refundable credits, like the DC EITC.
@@ -106,6 +108,26 @@ One more oddity: DC has an individual health insurance mandate — residents wit
 The single best consolidated reference is OTR's forms hub, which collects individual income, business, property-related, and specialized tax forms in one place, and the FR-500 business registration form is effectively a map of every business tax type DC imposes. OTR
 
 
+
+
+
+
+
+## Nuts and bolts
+
+### More details on the individual income tax
+
+| If the taxable income is:             | The tax is:                                          |
+|---------------------------------------|------------------------------------------------------|
+| Not over $10,000                      | 4% of the taxable income.                            |
+| Over $10,000 but not over $40,000     | $400, plus 6% of the excess over $10,000.            |
+| Over $40,000 but not over $60,000     | $2,200, plus 6.5% of the excess over $40,000.        |
+| Over $60,000 but not over $250,000    | $3,500, plus 8.5% of the excess over $60,000.        |
+| Over $250,000 but not over $500,000   | $19,650, plus 9.25% of the excess over $250,000.     |
+| Over $500,000 but not over $1,000,000 | $42,775, plus 9.75% of the excess above $500,000.    |
+| Over $1,000,000                       | $91,525, plus 10.75% of the excess above $1,000,000. |
+
+[jump back up](###Individual-income-tax)
 
 [1]: https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_D40_Form_030526.pdf
 [2]: https://mytaxdc.wordpress.com/2019/12/30/important-information-about-form-d-40ez/
