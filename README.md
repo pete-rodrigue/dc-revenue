@@ -15,7 +15,7 @@ Details:
 * Previously there was another form called the D-40EZ, which people with simpler taxes could file instead of the full D-40, but that was discontinued in 2019.<sup>[2]</sup>
 * If a person doesn't have automatic payroll witholding (e.g. because they're self-employed), they have to submit estimated payments using the D-40ES form. These are due quarterly.<sup>[3]</sup>
 
-[read more details](###More-details-on-the-individual-income-tax)
+[read more](#more-details-on-the-individual-income-tax)
 
 Who doesn't have to file the D-40 or pay this tax:
 
