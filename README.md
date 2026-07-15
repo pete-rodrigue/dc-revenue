@@ -127,7 +127,14 @@ The single best consolidated reference is OTR's forms hub, which collects indivi
 | Over $500,000 but not over $1,000,000 | $42,775, plus 9.75% of the excess above $500,000.    |
 | Over $1,000,000                       | $91,525, plus 10.75% of the excess above $1,000,000. |
 
-[jump back up](###Individual-income-tax)
+**Marginal income tax rates**
+![alt text](marginal_income_tax_rates.png)
+
+But many low-income filers get EITC money back, so they're, on net, receiving money during tax season; here's the rough schedule for 2025:
+
+![alt text](eitc_schedule.png)
+
+[jump back up](#individual-income-tax)
 
 [1]: https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2025_D40_Form_030526.pdf
 [2]: https://mytaxdc.wordpress.com/2019/12/30/important-information-about-form-d-40ez/
